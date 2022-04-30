@@ -1,7 +1,10 @@
-- 👋 Hi, I’m @vlnahp!
-- 👀 I’m interested in python!
-- 🌱 I’m currently learning python!
-- 📫 How to reach me ... [twitter](https://twitter.com/vlnahp)!
+Hi, I’m Nima Amini!
+
+C/C++ and Python ~~developer~~ learner!
+
+Currently looking for an employer.
+
+How to reach me? [twitter](https://twitter.com/vlnahp), [telegram](https://t.me/vlnahp)
 
 <!---
 vlnahp/vlnahp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
