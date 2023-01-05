@@ -4,7 +4,7 @@ C/C++ and Python ~~developer~~ learner!
 
 Currently looking for an employer.
 
-How to reach me? [telegram](https://t.me/vlnahp)
+How to reach me? [Telegram](https://t.me/vlnahp)
 
 <!---
 vlnahp/vlnahp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
